@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 22 Apr 2023 16:55:09 +0800</lastBuildDate><atom:link href="http://example.org/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tianpai Luo</title>
-      <link>http://example.org/introduction/my-first-post/</link>
+      <link>http://example.org/introduction/introduction/</link>
       <pubDate>Sat, 22 Apr 2023 16:55:09 +0800</pubDate>
       
-      <guid>http://example.org/introduction/my-first-post/</guid>
+      <guid>http://example.org/introduction/introduction/</guid>
       <description>Hello! My name is Tianpai Luo. Now I&amp;rsquo;m a PhD student in Tsinghua University.
 My reserch insterests include:
 Nonstationary time series analysis Empirical process Nonparametric regression under shape restriction For more information, you can download my CV：
