@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tianpai Luo</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Tianpai Luo</description>
+    <title>Introductions on Tianpai Luo</title>
+    <link>http://example.org/introduction/</link>
+    <description>Recent content in Introductions on Tianpai Luo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 16:55:09 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Apr 2023 16:55:09 +0800</lastBuildDate><atom:link href="http://example.org/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tianpai Luo</title>
       <link>http://example.org/introduction/my-first-post/</link>
